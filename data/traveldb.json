@@ -1,0 +1,46 @@
+{
+  "destinations": [
+    {
+      "id": 1,
+      "city": "New York",
+      "country": "USA",
+      "daysNeeded": 1
+    },
+    {
+      "id": 4,
+      "city": "Kolkata",
+      "country": "India",
+      "daysNeeded": 4
+    },
+    {
+      "id": 5,
+      "city": "North 24 Parganas",
+      "country": "India",
+      "daysNeeded": 1
+    },
+    {
+      "id": 6,
+      "city": "Chennai",
+      "country": "India",
+      "daysNeeded": 5
+    },
+    {
+      "id": 7,
+      "city": "Chicago",
+      "country": "USA",
+      "daysNeeded": 3
+    },
+    {
+      "id": 8,
+      "city": "London",
+      "country": "UK",
+      "daysNeeded": 4
+    },
+    {
+      "id": 9,
+      "city": "safsdaf",
+      "country": "dsdfds",
+      "daysNeeded": 2
+    }
+  ]
+}

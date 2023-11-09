@@ -1,0 +1,28 @@
+{
+  "destinations": [
+    {
+      "id": 1,
+      "city": "New York",
+      "country": "USA",
+      "daysNeeded": 3
+    },
+    {
+      "id": 2,
+      "city": "Chicago",
+      "country": "USA",
+      "daysNeeded": 3
+    },
+    {
+      "id": 3,
+      "city": "Georgia",
+      "country": "USA",
+      "daysNeeded": 3
+    },
+    {
+      "id": 3,
+      "city": "California",
+      "country": "USA",
+      "daysNeeded": 3
+    }
+  ]
+}
